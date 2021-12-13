@@ -1,0 +1,12 @@
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\bin\Debug\Autoriz Ebala.exe.config
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\bin\Debug\Autoriz Ebala.exe
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\bin\Debug\Autoriz Ebala.pdb
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz Ebala.csproj.AssemblyReference.cache
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz_Ebala.Form1.resources
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz_Ebala.Form2.resources
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz_Ebala.Form3.resources
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz_Ebala.Properties.Resources.resources
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz Ebala.csproj.GenerateResource.cache
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz Ebala.csproj.CoreCompileInputs.cache
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz Ebala.exe
+C:\Users\Revolver_DS\source\repos\Autoriz Ebala\Autoriz Ebala\obj\Debug\Autoriz Ebala.pdb
